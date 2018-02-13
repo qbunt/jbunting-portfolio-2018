@@ -8,6 +8,11 @@ fields:
   default: ''
   config:
     required: true
+- type: datetime
+  name: launch_date
+  label: Launch Date
+  config:
+    date_format: MM/YYYY
 - name: draft
   label: Draft
   type: boolean
@@ -29,9 +34,3 @@ fields:
   label: Agency
   description: Credited Agency
   default: Deutsch
-- type: datetime
-  name: project_completed
-  label: Project Completed
-  description: When this project was completed
-  config:
-    date_format: MM/YYYY
