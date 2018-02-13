@@ -2,10 +2,12 @@
 hide_body: false
 fields:
 - name: title
-  label: Title
+  label: Project Title
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: date
   label: Date
   type: text
@@ -31,7 +33,7 @@ fields:
     - Calphalon|NewellRubbermaid
   label: Agency
   description: Credited Agency
-  default: ''
+  default: Deutsch
 - type: datetime
   name: project_completed
   label: Project Completed
