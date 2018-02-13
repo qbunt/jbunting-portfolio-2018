@@ -4,7 +4,7 @@ date: 2018-02-12 21:26:27 -0800
 agency: Deutsch
 
 ---
-![](https://work.jeremybunting.com/static/images/target001.png)Pop Secret was after a new way for people to enjoy movies together. Deutsch designed social organization tool called PopOver for Pop Secret's loyal customers and movie devotees.
+Pop Secret was after a new way for people to enjoy movies together. Deutsch designed social organization tool called PopOver for Pop Secret's loyal customers and movie devotees.
 
 The application allows for friends to send one another an invitation to a movie night hosted at someone's house. The app allows for friends to organize the movie of the night, set a theme, organize snacks and get together to enjoy some popcorn and fun.
 
