@@ -1,6 +1,6 @@
 ---
-title: "Calphalon"
-date: 2018-02-12T21:26:51-08:00
+title: Calphalon Signature Series
+date: 2018-02-12 21:26:51 -0800
 draft: true
----
 
+---
