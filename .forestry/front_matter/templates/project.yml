@@ -16,8 +16,19 @@ fields:
   type: boolean
   hidden: false
   default: true
-- name: agency
+- type: select
+  name: agency
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - Deutsch
+    - Spinifex Group
+    - HYFN
+    - MediaBoom
+    - JUXT
+    - Calphalon|NewellRubbermaid
   label: Agency
-  type: text
-  hidden: false
+  description: Credited Agency
   default: ''
