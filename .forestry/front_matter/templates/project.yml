@@ -2,22 +2,35 @@
 hide_body: false
 fields:
 - name: title
-  label: Title
+  label: Project Title
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: text
-  hidden: false
-  default: 
+  config:
+    required: true
+- type: datetime
+  name: launch_date
+  label: Launch Date
+  config:
+    date_format: MM/YYYY
 - name: draft
   label: Draft
   type: boolean
   hidden: false
   default: true
-- name: agency
+- type: select
+  name: agency
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - Deutsch
+    - Spinifex Group
+    - HYFN
+    - MediaBoom
+    - JUXT
+    - Calphalon|NewellRubbermaid
   label: Agency
-  type: text
-  hidden: false
-  default: ''
+  description: Credited Agency
+  default: Deutsch
