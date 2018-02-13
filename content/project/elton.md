@@ -1,6 +1,6 @@
 ---
-title: "Elton"
-date: 2018-02-12T21:25:16-08:00
+title: Elton Farewell VR
+date: 2018-02-12 21:25:16 -0800
 draft: true
----
 
+---
