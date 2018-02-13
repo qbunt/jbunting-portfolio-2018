@@ -35,3 +35,6 @@ fields:
   label: Agency
   description: Credited Agency
   default: Deutsch
+- type: file
+  name: feature_image
+  label: Feature Image
