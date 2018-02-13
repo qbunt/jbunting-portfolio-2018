@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://work.jeremybunting.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Selected Works from Jeremy Bunting"
+theme = "qbunt-portfolio"
+[params]
+    name = "Selected portfolio projects from technologist Jeremy Bunting"
+    googleAnalytics = "UA-6802111-3"
+    

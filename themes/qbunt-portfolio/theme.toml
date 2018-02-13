@@ -11,8 +11,8 @@ features = []
 min_version = "0.36"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Jeremy Bunting"
+  homepage = "https://qbunt.com"
 
 # If porting an existing theme
 [original]
