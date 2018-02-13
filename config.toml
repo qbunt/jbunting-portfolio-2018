@@ -2,7 +2,21 @@ baseURL = "https://work.jeremybunting.com/"
 languageCode = "en-us"
 title = "Selected Works from Jeremy Bunting"
 theme = "qbunt-portfolio"
+
 [params]
     name = "Selected portfolio projects from technologist Jeremy Bunting"
     googleAnalytics = "UA-6802111-3"
-    
+
+[menu]
+    [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+    [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects/"
+    [[menu.main]]
+    identifier = "resume"
+    name       = "Resumé"
+    url        = "/resume/"
