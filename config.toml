@@ -3,10 +3,6 @@ languageCode = "en-us"
 theme = "qbunt-portfolio"
 title = "Selected Works from Jeremy Bunting"
 [[menu.main]]
-name = "Github"
-url = "https://github.com/qbunt"
-weight = 1
-[[menu.main]]
 identifier = "resume"
 name = "Resumé"
 url = "/resume/"
@@ -21,34 +17,19 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 3
+[[menu.main]]
+name = "Github"
+url = "https://github.com/qbunt"
+weight = 4
 [params]
-    name = "Selected portfolio projects from technologist Jeremy Bunting"
-    googleAnalytics = "UA-6802111-3"
-
-[menu]
-    [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about/"
-    [[menu.main]]
-    identifier = "projects"
-    name       = "Projects"
-    url        = "/projects/"
-    [[menu.main]]
-    identifier = "resume"
-    name       = "Resumé"
-    url        = "/resume/"
-
-	[params.contact]
-		title = "Get In Touch"
-		content = "If you have an idea that you'd like to see made real, please get in touch."
-
-		email = "hello@jeremybunting.com"
-
-		[params.contact.form]
-			# Set custom strings for the form if your native
-			# language isn't English
-			name = "Name"
-			email = "Email"
-			message = "Message"
-			submit = "Send message"
+googleanalytics = "UA-6802111-3"
+name = "Selected portfolio projects from technologist Jeremy Bunting"
+[params.contact]
+content = "If you have an idea that you'd like to see made real, please get in touch."
+email = "hello@jeremybunting.com"
+title = "Get In Touch"
+[params.contact.form]
+email = "Email"
+message = "Message"
+name = "Name"
+submit = "Send message"
