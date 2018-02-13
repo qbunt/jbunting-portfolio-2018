@@ -1,10 +1,10 @@
 ---
-title: "Drafting Stool"
-date: 2018-02-12T21:26:58-08:00
+title: Drafting Stool
+date: 2018-02-12 21:26:58 -0800
 agency: Self
 draft: true
----
 
+---
 A completely self-designed, modeled and fabricated drafting stool made for my own physiological dimensions.  The stool was designed for easy movement around the studio, light weight and comfortable use while drawing.
 
 Designed with the playful nature of a bicycle in mind, the stool was envisioned with wheels making the essential "scoot forward" into the drafting desk a fully considered movement.  The weight of the movement gets transferred to the wheels making the slide forward silent and effortless.

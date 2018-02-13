@@ -3,6 +3,7 @@ title: Calphalon Signature Series
 date: 2018-02-12 21:26:51 -0800
 agency: NewellRubbermaid | Calphalon
 draft: true
+
 ---
 While still in college, I designed, developed and patented a line of cookware for nationwide cookware manufacturer Calphalon.  The series of cookware features a non-stick surface, rubber overmolded stay-cool handles and a modern understated aesthetic.
 

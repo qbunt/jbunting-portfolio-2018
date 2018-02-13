@@ -1,6 +1,6 @@
 ---
-title: "Resume"
-date: 2018-02-12T21:27:25-08:00
+title: Resume
+date: 2018-02-12 21:27:25 -0800
 draft: true
----
 
+---
