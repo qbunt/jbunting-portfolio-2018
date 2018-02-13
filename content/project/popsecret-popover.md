@@ -2,7 +2,7 @@
 title: Popsecret Popover
 date: 2018-02-12 21:26:27 -0800
 agency: Deutsch
-draft: true
+draft: false
 
 ---
 Pop Secret was after a new way for people to enjoy movies together. Deutsch designed social organization tool called PopOver for Pop Secret's loyal customers and movie devotees.

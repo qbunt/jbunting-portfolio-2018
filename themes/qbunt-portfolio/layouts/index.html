@@ -1,12 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ .Site.Title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-    <h3>{{ .Site.Title }}</h3>
-</body>
-</html>
+{{ define "main" }}
+<section id=content>
+    <ul class=posts_listing>
+      {{ range .Data.Pages.ByPublishDate.Reverse }}
+        <div id="posts">
+          <div id=date class="date-time-title">
+              <time>{{ .Date.Format (.Site.Params.dateform | default "Jan 02 2006") }}</time>
+          </div>
+          <div class="date-time-title post">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </div>
+        </div>
+      {{ end }}
+    </ul>
+  </section>
+{{ end }}

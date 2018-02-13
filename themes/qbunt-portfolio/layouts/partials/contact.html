@@ -26,23 +26,9 @@
 		{{ end }}
 		<div class="4u$ 12u$(small)">
 			<ul class="labeled-icons">
-				{{ if isset .Site.Params.contact "address" }}
-				<li>
-					<h3 class="icon fa-home"><span class="label"></span></h3>
-					{{ if isset .Site.Params.contact "gmaps_address" }}
-					<a href="https://maps.google.com/?q={{ .Site.Params.contact.gmaps_address}}">
-					{{ end }}
-					{{ range .Site.Params.contact.address }}
-						{{ . }}<br />
-					{{ end }}
-					{{ if isset .Site.Params.contact "gmaps_address" }}
-					</a>
-					{{ end }}
-				</li>
-				{{ end }}
 				{{ if isset .Site.Params.contact "email" }}
 				<li>
-					<h3 class="icon fa-envelope-o"><span class="label"></span></h3>
+					<h3 class="icon fas fa-envelope"><span class="label"></span></h3>
 					<a href="mailto:{{ .Site.Params.contact.email }}">{{ .Site.Params.contact.email }}</a>
 				</li>
 				{{ end }}

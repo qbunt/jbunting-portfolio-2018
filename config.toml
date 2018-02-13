@@ -25,11 +25,17 @@ weight = 4
 googleanalytics = "UA-6802111-3"
 name = "Selected portfolio projects from technologist Jeremy Bunting"
 [params.contact]
-content = "If you have an idea that you'd like to see made real, please get in touch."
-email = "hello@jeremybunting.com"
-title = "Get In Touch"
+    content = "If you have an idea that you'd like to see made real, please get in touch."
+    email = "hello@jeremybunting.com"
+    title = "Get In Touch"
 [params.contact.form]
-email = "Email"
-message = "Message"
-name = "Name"
-submit = "Send message"
+    email = "Email"
+    message = "Message"
+    name = "Name"
+    submit = "Send message"
+[params.footer]
+    copyright = [
+        "Jeremy Bunting"
+    ]
+
+
