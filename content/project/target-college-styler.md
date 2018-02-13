@@ -2,7 +2,7 @@
 title: Target College Styler
 date: 2018-02-12 21:25:35 -0800
 agency: Deutsch
-draft: false
+launch_date: 2015-07-01 00:00:00 -0700
 
 ---
 Target has a major effort behind the back-to-school timeframe every year. Many students, parents and those buying for kids moving to college, rely on Target for stylish, affordable and fun college accessories.
