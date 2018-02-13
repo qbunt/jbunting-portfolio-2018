@@ -20,3 +20,17 @@ theme = "qbunt-portfolio"
     identifier = "resume"
     name       = "Resumé"
     url        = "/resume/"
+
+	[params.contact]
+		title = "Get In Touch"
+		content = "If you have an idea that you'd like to see made real, please get in touch."
+
+		email = "hello@jeremybunting.com"
+
+		[params.contact.form]
+			# Set custom strings for the form if your native
+			# language isn't English
+			name = "Name"
+			email = "Email"
+			message = "Message"
+			submit = "Send message"
