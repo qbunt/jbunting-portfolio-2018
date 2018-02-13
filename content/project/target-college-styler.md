@@ -12,9 +12,7 @@ The College Styler platform is a mobile first web application, built using Backb
 
 The site has been featured in \[AdAge\]([http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/](http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/ "http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/")) and \[Creativity Online\]([http://creativity-online.com/work/target-made-for-u-college-styler/42845](http://creativity-online.com/work/target-made-for-u-college-styler/42845 "http://creativity-online.com/work/target-made-for-u-college-styler/42845")).
 
-  
 I managed the international development team, took part in the original SWAT team that generated this concept, wrote several parts of the application, managed the infrastructure, and helped push the application through the QA process.
 
 > Really allows us to connect to those millennial guests \~ \[AdAge\]([http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/](http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/ "http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/"))
-
  > Target is making back-to-school shopping personal \~ \[Creativity Online\]([http://creativity-online.com/work/target-made-for-u-college-styler/42845](http://creativity-online.com/work/target-made-for-u-college-styler/42845 "http://creativity-online.com/work/target-made-for-u-college-styler/42845"))
