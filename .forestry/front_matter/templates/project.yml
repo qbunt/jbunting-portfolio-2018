@@ -13,6 +13,7 @@ fields:
   label: Launch Date
   config:
     date_format: MM/YYYY
+  default: Invalid date
 - name: draft
   label: Draft
   type: boolean
