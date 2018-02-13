@@ -2,7 +2,7 @@
 title: Vivint
 date: 2018-02-12 21:25:57 -0800
 draft: true
-agency: 'Deutsch'
+agency: Deutsch
 
 ---
 Vivint is a home automation and security company. Vivint approached Deutsch to develop a front-end experience for their new Vivint Sky home automation platform.
