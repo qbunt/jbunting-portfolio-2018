@@ -32,3 +32,9 @@ fields:
   label: Agency
   description: Credited Agency
   default: ''
+- type: datetime
+  name: project_completed
+  label: Project Completed
+  description: When this project was completed
+  config:
+    date_format: MM/YYYY
