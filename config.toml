@@ -1,22 +1,26 @@
 baseURL = "https://work.jeremybunting.com/"
 languageCode = "en-us"
-title = "Selected Works from Jeremy Bunting"
 theme = "qbunt-portfolio"
-
+title = "Selected Works from Jeremy Bunting"
+[[menu.main]]
+name = "Github"
+url = "https://github.com/qbunt"
+weight = 1
+[[menu.main]]
+identifier = "resume"
+name = "Resumé"
+url = "/resume/"
+weight = 1
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 2
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
 [params]
-    name = "Selected portfolio projects from technologist Jeremy Bunting"
-    googleAnalytics = "UA-6802111-3"
-
-[menu]
-    [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about/"
-    [[menu.main]]
-    identifier = "projects"
-    name       = "Projects"
-    url        = "/projects/"
-    [[menu.main]]
-    identifier = "resume"
-    name       = "Resumé"
-    url        = "/resume/"
+googleanalytics = "UA-6802111-3"
+name = "Selected portfolio projects from technologist Jeremy Bunting"
