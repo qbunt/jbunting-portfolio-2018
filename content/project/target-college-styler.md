@@ -4,6 +4,9 @@ date: 2018-02-12 21:25:35 -0800
 agency: Deutsch
 launch_date: 2015-07-01 00:00:00 -0700
 feature_image: ''
+site_link_active: false
+site_link: ''
+gallery: []
 
 ---
 Target has a major effort behind the back-to-school timeframe every year. Many students, parents and those buying for kids moving to college, rely on Target for stylish, affordable and fun college accessories.
@@ -12,10 +15,10 @@ Deutsch LA envisioned a new kind of tool for prospective college students planni
 
 The College Styler platform is a mobile first web application, built using Backbone and a custom Codeigniter implementation. The application pulls in social media content, pulls dominant colors and helps you put together a dorm room that fits your likes, color palette, even how you like to eat breakfast. Using dominant colors from your instagram feed clues the application into what colors you could style your dorm room in. Not only is this site smooth and fast on the major mobile platforms, it's also accessible to [WCAG 2.0 Level AA](\[http://www.w3.org/WAI/intro/wcag) compliance on desktop, mobile and tablet.
 
-The site has been featured in [AdAge](http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/) and \[Creativity Online\]([http://creativity-online.com/work/target-made-for-u-college-styler/42845](http://creativity-online.com/work/target-made-for-u-college-styler/42845 "http://creativity-online.com/work/target-made-for-u-college-styler/42845")).
+The site has been featured in [AdAge](http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/) and [Creativity Online](http://creativity-online.com/work/target-made-for-u-college-styler/42845).
 
 I managed the international development team, took part in the original SWAT team that generated this concept, wrote several parts of the application, managed the infrastructure, and helped push the application through the QA process.
 
-> Really allows us to connect to those millennial guests \~ \[AdAge\]([http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/](http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/ "http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/"))
+> Really allows us to connect to those millennial guests \~ [AdAge](http://adage.com/article/acxiom/target-taps-millenial-market-back-school-push/299675/)
 
-> Target is making back-to-school shopping personal \~ \[Creativity Online\]([http://creativity-online.com/work/target-made-for-u-college-styler/42845](http://creativity-online.com/work/target-made-for-u-college-styler/42845 "http://creativity-online.com/work/target-made-for-u-college-styler/42845"))
+> Target is making back-to-school shopping personal \~ [Creativity Online](http://creativity-online.com/work/target-made-for-u-college-styler/42845)
