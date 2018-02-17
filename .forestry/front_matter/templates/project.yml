@@ -41,7 +41,6 @@ fields:
 - type: image_gallery
   name: gallery
   label: gallery
-- type: text
 - type: boolean
   name: site_link_active
   label: Site Link Active
