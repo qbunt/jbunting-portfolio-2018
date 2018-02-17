@@ -38,3 +38,6 @@ fields:
 - type: file
   name: feature_image
   label: Feature Image
+- type: image_gallery
+  name: gallery
+  label: gallery
