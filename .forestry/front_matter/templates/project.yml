@@ -8,17 +8,6 @@ fields:
   default: ''
   config:
     required: true
-- type: datetime
-  name: launch_date
-  label: Launch Date
-  config:
-    date_format: MM/YYYY
-  default: Invalid date
-- name: draft
-  label: Draft
-  type: boolean
-  hidden: false
-  default: true
 - type: select
   name: agency
   config:
@@ -35,9 +24,24 @@ fields:
   label: Agency
   description: Credited Agency
   default: Deutsch
+- type: datetime
+  name: launch_date
+  label: Launch Date
+  config:
+    date_format: MM/YYYY
+  default: Invalid date
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
 - type: file
   name: feature_image
   label: Feature Image
 - type: image_gallery
   name: gallery
   label: gallery
+- type: text
+- type: boolean
+  name: site_link_active
+  label: Site Link Active
