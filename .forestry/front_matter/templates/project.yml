@@ -35,12 +35,15 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: boolean
+  name: site_link_active
+  label: Site Link Active
+- type: text
+  name: site_link
+  label: Site Link
 - type: file
   name: feature_image
   label: Feature Image
 - type: image_gallery
   name: gallery
   label: gallery
-- type: boolean
-  name: site_link_active
-  label: Site Link Active
