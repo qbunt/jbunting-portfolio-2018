@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    align-items: center;
+    height: 3rem;
+    background-color: red;
+    font-family: 'Roboto Mono', monospace;
+/* font-family: 'Lato', sans-serif; */
+}
+.nav li a {
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    margin: 0 1.5rem;
+}
+
+.footer {
+    display: flex;
+
+}
+.footer.icons li {
+    list-style: none;
+    justify-content: flex-start;
+    display: flex;
+
+}

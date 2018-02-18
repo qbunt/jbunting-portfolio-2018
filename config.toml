@@ -1,7 +1,9 @@
 baseURL = "https://work.jeremybunting.com/"
 languageCode = "en-us"
 theme = "qbunt-portfolio"
+themesDir =  "themes"
 title = "Selected Works from Jeremy Bunting"
+
 [[menu.main]]
 identifier = "resume"
 name = "Resumé"
@@ -21,9 +23,17 @@ weight = 3
 name = "Github"
 url = "https://github.com/qbunt"
 weight = 4
+
+[[menu.footer]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/qbunt"
+
 [params]
 googleanalytics = "UA-6802111-3"
 name = "Selected portfolio projects from technologist Jeremy Bunting"
+[params.github]
+    link= "https://github.com/qbunt"
 [params.contact]
     content = "If you have an idea that you'd like to see made real, please get in touch."
     email = "hello@jeremybunting.com"

@@ -1,0 +1,32 @@
+{
+  "name": "jbunting-portfolio-2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css:build": "npx node-sass ./themes/qbunt-portfolio/src-static/assets/src-sass/ -o static/assets/css/",
+    "postcss:build": "npx autoprefixer -b 'last 2 versions' static/src-assets/css/*.css",
+    "css:watch": "npx onchange './themes/qbunt-portfolio/src-static/assets/src-sass/' -- npm run css:build",
+    "js:build": "browserify static-src/assets/js/index.js -o static/assets/js/bundle.js",
+    "js:watch": "watchify static-src/assets/src-js/index.js -o static/assets/js/bundle.js",
+    "build": "npm run css:build && npm run js:build",
+    "prewatch": "npm run build",
+    "watch": "parallelshell 'npm run css:watch' 'npm run js:watch'",
+    "start": "npm run watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qbunt/jbunting-portfolio-2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qbunt/jbunting-portfolio-2018/issues"
+  },
+  "homepage": "https://github.com/qbunt/jbunting-portfolio-2018#readme",
+  "dependencies": {
+    "autoprefixer": "^8.0.0",
+    "node-sass": "^4.7.2",
+    "onchange": "^3.3.0"
+  }
+}

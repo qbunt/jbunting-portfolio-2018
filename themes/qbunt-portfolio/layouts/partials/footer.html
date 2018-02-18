@@ -1,14 +1,16 @@
 {{ "<!-- Footer -->" | safeHTML }}
-<footer id="footer">
+<footer class="footer">
 	<ul class="icons">
 		{{ with .Site.Params.contact.email }}
 		<li><a href="{{ $.Site.BaseURL }}#contact-form" class="icon"><i class="far fa-envelope"></i></a></li>
 		{{ end }}
 		{{ if not .Site.Params.rss.hide }}
 		<li><a href="{{ if $.RSSLink }}{{ $.RSSLink }}{{ else }}{{ $.Site.RSSLink }}{{ end }}" class="icon" type="application/rss+xml"><i class="fas fa-rss-square"></i></a></li>
-        {{ end }}
+		{{ end }}
+		{{ if not .Site.Params.github.hide}}
+		<li><a href="{{.Site.Params.github.link}}"><i class="fab fa-github"></i></a></li>
+		{{ end }}
 	</ul>
-
 	<ul class="copyright">
 		{{ range .Site.Params.footer.copyright }}
 		<li>{{ . | markdownify }} &copy;{{ now.Format "2006" }}</li>
