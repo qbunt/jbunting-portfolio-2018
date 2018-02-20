@@ -8,6 +8,10 @@ fields:
   default: ''
   config:
     required: true
+- type: textarea
+  name: subhead
+  label: Subhead
+  description: short description that appears on the landing page
 - type: select
   name: agency
   config:
