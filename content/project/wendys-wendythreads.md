@@ -2,6 +2,11 @@
 title: Wendy's Wendythreads
 date: 2018-02-12 21:26:40 -0800
 agency: HYFN
+draft: true
+launch_date: 2012-01-01 00:00:00 -0800
+site_link: ''
+feature_image: ''
+gallery: []
 
 ---
 Wendy Threads is an interactive T-shirt builder for the Wendy's Restaurant chain. Wendy Threads launched with a street team promotion in Times Square and hit 100,000 visits and 8,000 T-shirt submissions within 24 hours of launch.
