@@ -12,6 +12,8 @@ fields:
   name: subhead
   label: Subhead
   description: short description that appears on the landing page
+  config:
+    wysiwyg: false
 - type: select
   name: agency
   config:
