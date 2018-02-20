@@ -32,7 +32,7 @@ fields:
   default: Deutsch
 - type: datetime
   name: date
-  label: Launch Date
+  label: Date
   config:
     date_format: MM/YYYY
   default: Invalid date
