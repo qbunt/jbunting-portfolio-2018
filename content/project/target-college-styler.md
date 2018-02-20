@@ -7,7 +7,6 @@ feature_image: ''
 site_link_active: false
 site_link: ''
 gallery:
-- "/uploads/2018/02/20/target008.png"
 - "/uploads/2018/02/20/target007.png"
 - "/uploads/2018/02/20/target006.png"
 - "/uploads/2018/02/20/target005.png"
