@@ -1,9 +1,13 @@
 {{ define "main" }}
 <section id=content>
+    <h2></h2>
     <ul class=posts_listing>
         {{ range where .Data.Pages "Section" "project" }}
         <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <h3>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </h3>
+            <p>{{ .Params.subhead}}</p>
             <div class="meta">{{ .Date.Format "January 2006" }}</div>
         </li>
         {{ end }}

@@ -6,6 +6,15 @@
 }
 body {
     font-family: 'Roboto Mono', monospace;
+    background-color: #333;
+    color: white;
+}
+.posts_listing a {
+    text-decoration: none;
+    color: red;
+}
+.posts_listing li {
+    margin-bottom: 30px;
 }
 #top {
     display: flex;
@@ -20,7 +29,7 @@ body {
     list-style: none;
     align-items: center;
     height: 3rem;
-    background-color: red;
+    background-color: #222;
     font-family: 'Roboto Mono', monospace;
 /* font-family: 'Lato', sans-serif; */
 }
@@ -31,12 +40,21 @@ body {
     text-decoration: none;
     margin: 0 1.5rem;
 }
+.nav li a:hover {
+    color: black;
+}
 .logo {
     margin-right: auto;
 }
 .logo svg {
     width: 35px;
-    fill: white;
+    fill: #333;
+}
+.logo svg:hover{
+    fill: #555;
+}
+#content img{
+    width: 100vw;
 }
 
 footer {

@@ -1,0 +1,4 @@
+{{ if isset .Site.Params.intro "header" }}
+    {{ with .Site.Params.intro.header }}<h2>{{ . }}</h2>{{ end }}
+    {{ with .Site.Params.intro.subheader }}<p>{{ . | markdownify }}</p>{{ end }}
+{{ end }}
