@@ -6,7 +6,16 @@ launch_date: 2015-07-01 00:00:00 -0700
 feature_image: ''
 site_link_active: false
 site_link: ''
-gallery: []
+gallery:
+- "/uploads/2018/02/20/target008.png"
+- "/uploads/2018/02/20/target007.png"
+- "/uploads/2018/02/20/target006.png"
+- "/uploads/2018/02/20/target005.png"
+- "/uploads/2018/02/20/target004.png"
+- "/uploads/2018/02/20/target003.png"
+- "/uploads/2018/02/20/target002.png"
+- "/uploads/2018/02/20/target001.png"
+subhead: ''
 
 ---
 Target has a major effort behind the back-to-school timeframe every year. Many students, parents and those buying for kids moving to college, rely on Target for stylish, affordable and fun college accessories.
