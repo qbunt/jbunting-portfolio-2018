@@ -6,7 +6,6 @@ site_link: ''
 feature_image: ''
 gallery: []
 subhead: ''
-draft: true
 
 ---
 The Volkswagen Unleash Your Rrr project was a new breed of technology for Deutsch. The app records your voice and your face as you imitate the Volkswagen Golf R screaming around the track at top speed. The Deutsch team came up with a set of techniques and technologies in order to break up those sounds dynamically, analyze them, and then assemble some carefully selected video content to match your performance. What you end up with is a customized video complete with your voice with clips of the Golf R screaming around the track that matches your voice, timing and energy.
