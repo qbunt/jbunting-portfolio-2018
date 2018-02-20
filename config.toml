@@ -30,8 +30,11 @@ weight = 4
     url = "https://github.com/qbunt"
 
 [params]
-googleanalytics = "UA-6802111-3"
-name = "Selected portfolio projects from technologist Jeremy Bunting"
+    googleanalytics = "UA-6802111-3"
+    name = "Selected portfolio projects from technologist Jeremy Bunting"
+    [params.intro]
+        header = "Hi I’m Jeremy Bunting, an experienced technologist and tech leader"
+        subheader = "I lead developers to build products, tools and digital experiences for some of the best people in the world."
     [params.github]
         link= "https://github.com/qbunt"
     [params.contact]
@@ -45,8 +48,5 @@ name = "Selected portfolio projects from technologist Jeremy Bunting"
         submit = "Send message"
     [params.footer]
         copyright = ["Jeremy Bunting"]
-    [params.intro]
-        header = "Hi I’m Jeremy Bunting, an experienced technologist and tech leader"
-        subheader = "I lead developers to build products, tools and digital experiences for some of the best people in the world."
 
 
