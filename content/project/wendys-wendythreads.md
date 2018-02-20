@@ -2,8 +2,7 @@
 title: Wendy's Wendythreads
 date: 2012-01-12 21:26:40 -0800
 agency: HYFN
-draft: true
-launch_date: 2012-01-01 00:00:00 -0800
+launch_date: 2012-01-01 08:00:00 +0000
 site_link: ''
 feature_image: ''
 gallery: []
