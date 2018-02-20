@@ -1,15 +1,11 @@
 {{ define "main" }}
 <section id=content>
     <ul class=posts_listing>
-        {{ range .Data.Pages.GroupBy "Section" }}
-        <h3>{{ .Key }}</h3>
-        <ul>
-            {{ range .Pages }}
-            <li>
-            <a href="{{ .Permalink }}">{{ .Title }} -- >{{ .Date.Format "Mon, Jan 2, 2006" }}</a>
-            </li>
-            {{ end }}
-        </ul>
+        {{ range where .Data.Pages "Section" "project" }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <div class="meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
+        </li>
         {{ end }}
     </ul>
   </section>

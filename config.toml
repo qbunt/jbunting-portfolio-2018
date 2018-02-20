@@ -10,9 +10,9 @@ name = "Resumé"
 url = "/resume/"
 weight = 1
 [[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "/projects/"
+identifier = "contact"
+name = "Contact"
+url = "/#contact/"
 weight = 2
 [[menu.main]]
 identifier = "about"
@@ -20,7 +20,7 @@ name = "About"
 url = "/about/"
 weight = 3
 [[menu.main]]
-name = "Github"
+name = "Code"
 url = "https://github.com/qbunt"
 weight = 4
 
