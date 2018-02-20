@@ -2,8 +2,7 @@
 title: Calphalon Signature Series
 date: 2018-02-12 21:26:51 -0800
 agency: Calphalon|NewellRubbermaid
-launch_date: 2007-08-01 00:00:00 -0700
-draft: true
+launch_date: 2007-08-01 07:00:00 +0000
 site_link: ''
 feature_image: ''
 gallery: []
