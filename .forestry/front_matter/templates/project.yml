@@ -31,7 +31,7 @@ fields:
   description: Credited Agency
   default: Deutsch
 - type: datetime
-  name: launch_date
+  name: date
   label: Launch Date
   config:
     date_format: MM/YYYY
