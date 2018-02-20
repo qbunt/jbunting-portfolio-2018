@@ -1,11 +1,12 @@
 ---
 title: Drafting Stool
-date: 2018-02-12 21:26:58 -0800
+date: 2006-01-12 21:26:58 -0800
 agency: Deutsch
 launch_date: 2006-01-01 00:00:00 -0800
 site_link: ''
 feature_image: ''
 gallery: []
+subhead: ''
 
 ---
 A completely self-designed, modeled and fabricated drafting stool made for my own physiological dimensions.  The stool was designed for easy movement around the studio, light weight and comfortable use while drawing.
