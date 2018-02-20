@@ -1,7 +1,7 @@
 ---
-title: "Project"
-date: 2018-02-13T23:43:43-08:00
-draft: true
-agency: ""
+title: Project
+date: 2018-02-13 23:43:43 -0800
+agency: ''
+
 ---
 project landing page
