@@ -3,26 +3,30 @@ languageCode = "en-us"
 theme = "qbunt-portfolio"
 themesDir =  "themes"
 title = "Selected Works from Jeremy Bunting"
+relativeURLs = true
 
 [[menu.main]]
-identifier = "resume"
-name = "Resumé"
-url = "/resume/"
-weight = 1
+        identifier = "resume"
+        name = "Resumé"
+        url = "/resume/"
+        weight = 1
+
 [[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/#contact/"
-weight = 2
+    identifier = "contact"
+    name = "Contact"
+    url = "/#contact/"
+    weight = 2
+
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 3
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
 [[menu.main]]
-name = "Code"
-url = "https://github.com/qbunt"
-weight = 4
+    name = "Code"
+    url = "https://github.com/qbunt"
+    weight = 4
 
 [[menu.footer]]
     identifier = "github"
