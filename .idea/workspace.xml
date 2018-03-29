@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81335367-c649-45b6-8b92-34f8a138907f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/head.html" afterDir="false" />
-    </list>
+    <list default="true" id="81335367-c649-45b6-8b92-34f8a138907f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,8 +51,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            <state relative-caret-position="270">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -76,23 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rss.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rss.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/rss.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-              <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="414">
+              <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="576">
+              <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -248,7 +240,7 @@
       <workItem from="1518973728184" duration="270000" />
       <workItem from="1521574258788" duration="83000" />
       <workItem from="1521574352420" duration="1344000" />
-      <workItem from="1522293698332" duration="385000" />
+      <workItem from="1522293698332" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="adding netlify config">
       <created>1521574466206</created>
@@ -271,17 +263,24 @@
       <option name="project" value="LOCAL" />
       <updated>1521574658201</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding relURL pipes for permalinks so they work in places that aren't the real site">
+      <created>1522294559023</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522294559023</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2082000" />
+    <option name="totallyTimeSpent" value="2329000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="2560" height="1418" extended-state="6" />
+    <frame x="0" y="22" width="1769" height="1418" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1515625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21933296" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Buck" order="7" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -312,7 +311,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="adding netlify config" />
     <MESSAGE value="duplicate tags for netlify.toml" />
-    <option name="LAST_COMMIT_MESSAGE" value="duplicate tags for netlify.toml" />
+    <MESSAGE value="Adding relURL pipes for permalinks so they work in places that aren't the real site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding relURL pipes for permalinks so they work in places that aren't the real site" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config.toml">
@@ -415,9 +415,6 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/header.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/menu.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -445,13 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -459,20 +449,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/head.html">
+    <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/rss.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="414">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/rss.xml">
+    <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="270">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/header.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
         </state>
       </provider>
     </entry>
