@@ -36,11 +36,6 @@ fields:
   config:
     date_format: MM/YYYY
   default: Invalid date
-- name: draft
-  label: Draft
-  type: boolean
-  hidden: false
-  default: true
 - type: text
   name: site_link
   label: Site Link
