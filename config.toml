@@ -1,4 +1,4 @@
-baseURL = "https://work.jeremybunting.com/"
+baseURL = "/"
 languageCode = "en-us"
 theme = "qbunt-portfolio"
 themesDir =  "themes"
