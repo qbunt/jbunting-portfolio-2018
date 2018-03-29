@@ -15,9 +15,9 @@
 
     <div>
         {{ with .PrevInSection }}
-        <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+        <a class="previous" href="{{.Permalink | relURL }}"> {{.Title}}</a>
         {{ end }} {{ with .NextInSection }}
-        <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+        <a class="next" href="{{.Permalink | relURL}}"> {{.Title}}</a>
         {{ end }}
     </div>
 </aside>
