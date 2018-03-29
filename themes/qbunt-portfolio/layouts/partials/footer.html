@@ -21,7 +21,7 @@
 
 {{ "<!-- Scripts -->" | safeHTML }}
 <!--[if lte IE 8]><script src="{{ .Site.BaseURL }}js/ie/respond.min.js"></script><![endif]-->
-<script src="js/main.js"></script>
+<script src="{{"js/main.js" | absURL}}"></script>
 
 {{ template "_internal/google_analytics_async.html" . }}
 

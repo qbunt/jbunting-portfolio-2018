@@ -20,7 +20,7 @@
 		{{ "<!--[if lte IE 8]>" | safeHTML }}<script src='{{ .Site.BaseURL }}js/ie/html5shiv.js'></script>{{ "<![endif]-->" | safeHTML}}
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
 		<link href="https://fonts.googleapis.com/css?family=Lato|Roboto+Mono" rel="stylesheet">
-		<link rel="stylesheet" href="css/main.css" />
+		<link rel="stylesheet" href="{{ "css/main.css" | absURL }}" />
 		{{ "<!--[if lte IE 8]>" | safeHTML }}<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/ie8.css">{{ "<![endif]-->" | safeHTML}}
 
 		{{ with .RSSLink }}
