@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81335367-c649-45b6-8b92-34f8a138907f" name="Default" comment="" />
+    <list default="true" id="81335367-c649-45b6-8b92-34f8a138907f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/config.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -47,20 +49,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="baseof.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="baseof.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/baseof.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="414">
+              <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/index.html">
+        <entry file="file://$PROJECT_DIR$/static/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+            <state relative-caret-position="144">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -79,15 +86,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -142,6 +140,7 @@
         <option value="$PROJECT_DIR$/admin/index.html" />
         <option value="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/baseof.html" />
+        <option value="$PROJECT_DIR$/static/admin/config.yml" />
       </list>
     </option>
   </component>
@@ -180,41 +179,35 @@
             <path>
               <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="qbunt-portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="qbunt-portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="qbunt-portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="_default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jbunting-portfolio-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jbunting-portfolio-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="qbunt-portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +255,7 @@
       <workItem from="1522876049388" duration="646000" />
       <workItem from="1523983123171" duration="512000" />
       <workItem from="1523986804194" duration="359000" />
-      <workItem from="1529096180200" duration="543000" />
+      <workItem from="1529096180200" duration="859000" />
     </task>
     <task id="LOCAL-00001" summary="adding netlify config">
       <created>1521574466206</created>
@@ -310,7 +303,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7192000" />
+    <option name="totallyTimeSpent" value="7508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,6 +316,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1706" height="1417" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49943504" visible="true" weight="0.15767878" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
@@ -634,8 +628,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/baseof.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="414">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
