@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/resume/</loc>
+    <lastmod>2018-02-12T21:27:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-02-12T21:27:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/calphalon/</loc>
+    <lastmod>2018-02-12T21:26:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/popsecret-popover/</loc>
+    <lastmod>2018-02-12T21:26:27-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/vw-smiledrive/</loc>
+    <lastmod>2018-02-12T21:26:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/vw-find-a-match/</loc>
+    <lastmod>2018-02-12T21:26:06-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/vivint/</loc>
+    <lastmod>2018-02-12T21:25:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/target-college-styler/</loc>
+    <lastmod>2018-02-12T21:25:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/elton/</loc>
+    <lastmod>2018-02-12T21:25:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/cisco-portals/</loc>
+    <lastmod>2017-10-13T00:38:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/deutsch.com/</loc>
+    <lastmod>2016-04-15T13:29:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/vw-unleash-your-rrr/</loc>
+    <lastmod>2015-07-12T21:25:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/wendys-wendythreads/</loc>
+    <lastmod>2012-01-12T21:26:40-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/drafting-stool/</loc>
+    <lastmod>2006-01-12T21:26:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2018-02-12T21:26:51-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-02-12T21:27:25-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
