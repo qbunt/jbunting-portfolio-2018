@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81335367-c649-45b6-8b92-34f8a138907f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/_default/baseof.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/head.html" afterDir="false" />
-    </list>
+    <list default="true" id="81335367-c649-45b6-8b92-34f8a138907f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -73,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -82,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/head.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -108,8 +104,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/project/target-college-styler/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-132">
-              <caret line="113" column="572" selection-start-line="113" selection-start-column="572" selection-end-line="113" selection-end-column="572" />
+            <state relative-caret-position="-114">
+              <caret line="114" column="572" selection-start-line="114" selection-start-column="572" selection-end-line="114" selection-end-column="572" />
             </state>
           </provider>
         </entry>
@@ -266,7 +262,7 @@
       <workItem from="1522876049388" duration="646000" />
       <workItem from="1523983123171" duration="512000" />
       <workItem from="1523986804194" duration="359000" />
-      <workItem from="1529096180200" duration="416000" />
+      <workItem from="1529096180200" duration="543000" />
     </task>
     <task id="LOCAL-00001" summary="adding netlify config">
       <created>1521574466206</created>
@@ -314,7 +310,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7065000" />
+    <option name="totallyTimeSpent" value="7192000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,7 +323,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1706" height="1417" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49943504" visible="true" weight="0.15767878" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
@@ -590,8 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/project/target-college-styler/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="113" column="572" selection-start-line="113" selection-start-column="572" selection-end-line="113" selection-end-column="572" />
+        <state relative-caret-position="-114">
+          <caret line="114" column="572" selection-start-line="114" selection-start-column="572" selection-end-line="114" selection-end-column="572" />
         </state>
       </provider>
     </entry>
@@ -612,14 +607,14 @@
     <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/qbunt-portfolio/layouts/partials/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
