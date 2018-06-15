@@ -255,7 +255,7 @@
       <workItem from="1522876049388" duration="646000" />
       <workItem from="1523983123171" duration="512000" />
       <workItem from="1523986804194" duration="359000" />
-      <workItem from="1529096180200" duration="859000" />
+      <workItem from="1529096180200" duration="957000" />
     </task>
     <task id="LOCAL-00001" summary="adding netlify config">
       <created>1521574466206</created>
@@ -303,7 +303,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7508000" />
+    <option name="totallyTimeSpent" value="7606000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
