@@ -1,4 +1,5 @@
 ---
+label: project
 hide_body: false
 is_partial: false
 fields:
@@ -46,3 +47,16 @@ fields:
 - type: image_gallery
   name: gallery
   label: gallery
+pages:
+- content/project/calphalon.md
+- content/project/wendys-wendythreads.md
+- content/project/vivint.md
+- content/project/drafting-stool.md
+- content/project/vw-unleash-your-rrr.md
+- content/project/vw-find-a-match.md
+- content/project/deutsch.com.md
+- content/project/cisco-portals.md
+- content/project/vw-smiledrive.md
+- content/project/popsecret-popover.md
+- content/project/target-college-styler.md
+- content/project/elton.md
