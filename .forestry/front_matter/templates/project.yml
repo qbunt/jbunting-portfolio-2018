@@ -48,8 +48,8 @@ fields:
   name: gallery
   label: gallery
 - type: field_group_list
-  label: test
-  name: test
+  label: Services
+  name: services
   fields:
   - type: include
     template: services
