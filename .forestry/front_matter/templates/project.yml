@@ -47,6 +47,9 @@ fields:
 - type: image_gallery
   name: gallery
   label: gallery
+- type: field_group_list
+  label: test
+  name: test
 pages:
 - content/project/vivint.md
 - content/project/calphalon.md
